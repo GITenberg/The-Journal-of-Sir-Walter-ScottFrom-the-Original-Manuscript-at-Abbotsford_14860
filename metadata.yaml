@@ -1,0 +1,41 @@
+_repo: The-Journal-of-Sir-Walter-ScottFrom-the-Original-Manuscript-at-Abbotsford_14860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  editor:
+    agent_name: Douglas, David
+    birthdate: 1823
+    deathdate: 1916
+    gutenberg_agent_id: '37781'
+    url: http://www.gutenberg.org/2009/agents/37781
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scott, Walter, 1771-1832 -- Diaries'
+- !lcsh 'Authors, Scottish -- 19th century -- Diaries'
+title: 'The Journal of Sir Walter Scott
+
+  From the Original Manuscript at Abbotsford'
+url: http://www.gutenberg.org/ebooks/14860
